@@ -1,8 +1,8 @@
-# Real-time Image Demoireing on Mobile Devices
+# Real-time Image Demoir&eacute;ing on Mobile Devices
 
-Pytorch implementation of our paper accepted by ICLR 2023 -- "Real-time Image Demoireing on Mobile Devices".
+Pytorch implementation of our paper accepted by ICLR 2023 -- "Real-time Image Demoir&eacute;ing on Mobile Devices".
 
-## Requirements
+## Requirements	
 
 - python 3.7
 - pytorch 1.9.0
@@ -19,7 +19,7 @@ First, split and divide the training dataset by the following command:
 sh run/split_dataset.sh
 ```
 
-Note that the data path of demoireing benchmarks should be modified in `/data_script/aim/slit_patches_train.py`
+Note that the data path of demoir&eacute;ing benchmarks should be modified in `/data_script/aim/slit_patches_train.py`
 
 Second, run the command scripts in `run/` to accelerate models on different benchmarks. For example, to reproduce the results of DDA for accelerating MBCNN on FHDMI, run:
 
@@ -46,4 +46,5 @@ sh run/test_mbcnn_fhdmi.sh
 | MBCNN     | FHDMI    | 23.27 | 0%              | [Link](https://drive.google.com/file/d/1olk-vq_zqfbOIeqcNHEMrmpb7HxaHHwH/view?usp=sharing) |
 | MBCNN-DDA | FHDMI    | 23.62 | 45.2%           | [Link](https://drive.google.com/file/d/1lHZyfGcds9QaFtJFkeWGMk5sv8H6Q2bJ/view?usp=sharing) |
 
-Any problem, feel free to contact yuxinzhang@stu.xmu.edu.cn
+Any problem, feel free to contact [yuxinzhang@stu.xmu.edu.cn](mailto:yuxinzhang@stu.xmu.edu.cn)
+
