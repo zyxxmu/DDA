@@ -46,4 +46,4 @@ sh run/test_mbcnn_fhdmi.sh
 | MBCNN     | FHDMI    | 23.27 | 0%              | [Link](https://drive.google.com/file/d/1olk-vq_zqfbOIeqcNHEMrmpb7HxaHHwH/view?usp=sharing) |
 | MBCNN-DDA | FHDMI    | 23.62 | 45.2%           | [Link](https://drive.google.com/file/d/1lHZyfGcds9QaFtJFkeWGMk5sv8H6Q2bJ/view?usp=sharing) |
 
-Any problem, feel free to contact [yuxinzhang@stu.xmu.edu.cn](
+Any problem, feel free to contact yuxinzhang@stu.xmu.edu.cn
