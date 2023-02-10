@@ -38,13 +38,13 @@ sh run/test_mbcnn_fhdmi.sh
 | Model     | Dataset  | PSNR  | FLOPs reduction | Link                                                         |
 | --------- | -------- | ----- | --------------- | ------------------------------------------------------------ |
 | DMCNN     | LCDMoir&eacute; | 34.19 | 0%              | [Link](https://drive.google.com/file/d/1bSyRNEBV1vW1kp7VXE-q1ELsBjcFBHMH/view?usp=sharing) |
-| DMCNN-DDA | LCDMoir&eacute; | 34.58 | 55.1%           | [Link](https://drive.google.com/file/d/1lHZyfGcds9QaFtJFkeWGMk5sv8H6Q2bJ/view?usp=sharing) |
+| DMCNN-DDA | LCDMoir&eacute; | 34.58 | 55.1%           | [Link](https://drive.google.com/file/d/1NwazcAzIk5DNUejYhNV3fd3eSu7mEzh0/view?usp=share_link) |
 | DMCNN     | FHDMI    | 21.69 | 0%              | [Link](https://drive.google.com/file/d/12z690vkzr___LKdTrCchDXHz3leP7e5T/view?usp=sharing) |
-| DMCNN-DDA | FHDMI    | 21.86 | 52.3%           | [Link](https://drive.google.com/file/d/1lHZyfGcds9QaFtJFkeWGMk5sv8H6Q2bJ/view?usp=sharing) |
+| DMCNN-DDA | FHDMI    | 21.86 | 52.3%           | [Link](https://drive.google.com/file/d/1lHZyfGcds9QaFtJFkeWGMk5sv8H6Q2bJ/view?usp=share_link) |
 | MBCNN     | LCDMoir&eacute; | 43.95 | 0%              | [Link](https://drive.google.com/file/d/12z690vkzr___LKdTrCchDXHz3leP7e5T/view?usp=sharing) |
-| MBCNN-DDA | LCDMoir&eacute; | 41.68 | 46.9%           | [Link](https://drive.google.com/file/d/1lHZyfGcds9QaFtJFkeWGMk5sv8H6Q2bJ/view?usp=sharing) |
+| MBCNN-DDA | LCDMoir&eacute; | 41.68 | 46.9%           | [Link](https://drive.google.com/file/d/1nKtRWSrrYlOOGbOLW_48jDRGj3j6pxvv/view?usp=share_link) |
 | MBCNN     | FHDMI    | 23.27 | 0%              | [Link](https://drive.google.com/file/d/1olk-vq_zqfbOIeqcNHEMrmpb7HxaHHwH/view?usp=sharing) |
-| MBCNN-DDA | FHDMI    | 23.62 | 45.2%           | [Link](https://drive.google.com/file/d/1lHZyfGcds9QaFtJFkeWGMk5sv8H6Q2bJ/view?usp=sharing) |
+| MBCNN-DDA | FHDMI    | 23.62 | 45.2%           | [Link](https://drive.google.com/file/d/1EUfWZEDNVxLQYIdK89-OgxNwlgXnrbhF/view?usp=share_link) |
 
 Any problem, feel free to contact [yuxinzhang@stu.xmu.edu.cn](mailto:yuxinzhang@stu.xmu.edu.cn)
 
