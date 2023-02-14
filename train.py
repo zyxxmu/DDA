@@ -227,7 +227,7 @@ def train(args, model):
             if ii%1 == 0:
                 log('iter: {} \ttraining set : \tPSNR = {:f}\t loss = {:f}\t Loss1(scale) = {:f} \t Loss_L1 = {:f} + Loss_sobel = {:f},\t '
                     .format(ii, psnr_meter.value()[0], Loss_meter1.value()[0],  Loss_meter2.value()[0], Loss_meter3.value()[0], Loss_meter4.value()[0] ))
-            if ii>2:break
+            # if ii>2:break
 
         psnr_output = val(model, test_dataloader, args)
 
