@@ -11,7 +11,7 @@ python main.py \
 --Test_pretrained_path './ckpt/mbcnn_fhdmi.pth' \
 --batchsize 1 \
 --tensorboard \
---width_list 0.8 0.6 0.4 \
+--width_list 0.75 0.5 0.25 \
 --operation test \
 --name "test"
 }
