@@ -246,7 +246,7 @@ def train(args, model):
             scheduler.step()
         else:
             if epoch > 5:
-                list_tmp = list_loss_output[-5:]
+                list_tmp = list_psnr_output[-5:]
                 for j in range(4):
                     sub = 10 * (math.log10( ( list_tmp[j] / list_tmp[j+1] ) ))
                     if sub > 0.001: break
